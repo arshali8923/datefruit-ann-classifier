@@ -29,7 +29,7 @@ This project implements an **Artificial Neural Network (ANN)** in PyTorch to cla
    - Prints total samples, correct predictions, and accuracy %
 
 ## 📊 Results
-- Achieved **~XX% accuracy** on test data (replace with your actual run).
+- Achieved 93.4% accuracy on test data 
 - Model generalizes well across multiple fruit classes.
 
 ## 🚀 How to Run
